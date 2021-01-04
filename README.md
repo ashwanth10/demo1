@@ -1,2 +1,2 @@
 new commit 2
-from github
+from github 2
